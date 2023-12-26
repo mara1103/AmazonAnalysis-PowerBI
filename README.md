@@ -24,5 +24,7 @@ For a better understanding, through the introductory report I have added a brief
 
 Similarly, the following reports will reveal information related to the products purchased, the locations where the orders were distributed, total sales, prices, and finally a sales prediction exercise for the next month.
 
-You can find the whole project here : 
+You can find the whole project here : [AmazonSalesAnalysis.pbix](https://github.com/mara1103/PowerBI_project/blob/c531336ca3693d7b48727e27da0ab373b47e6f98/AmazonSalesAnalysis.pbix)
+
+### Conclusions / Results
 
