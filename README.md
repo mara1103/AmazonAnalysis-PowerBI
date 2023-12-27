@@ -24,7 +24,12 @@ For a better understanding, through the introductory report I have added a brief
 
 Similarly, the following reports will reveal information related to the products purchased, the locations where the orders were distributed, total sales, prices, and finally a sales prediction exercise for the next month.
 
-You can find the whole project in the same repository here : [AmazonSalesAnalysis.pbix](https://github.com/mara1103/PowerBI_project/blob/c531336ca3693d7b48727e27da0ab373b47e6f98/AmazonSalesAnalysis.pbix) or in the Power BI Service
+You can find the whole project in the same repository here : [AmazonSalesAnalysis.pbix](https://github.com/mara1103/PowerBI_project/blob/c531336ca3693d7b48727e27da0ab373b47e6f98/AmazonSalesAnalysis.pbix) .
 
 ### Conclusions / Results
+Through the project, the best-selling products within the company can be identified, as well as the differences between them, the users being able to decide the possible evolution of each product category, improvement or promotion. The most successful categories within the company are: set, kurta and western dress.
+
+The state with the most sales is Maharashtra with 20.8 K orders. Analyzes of sales by location can be useful for making strategic decisions about expanding markets, allocating resources, or developing geographically tailored marketing strategies.
+
+Finally, the project can demonstrate the benefits of using Business Intelligence in the decision-making process in a company. Using the Power BI platform enabled data visualization and analysis in an interactive and efficient way.
 
